@@ -36,7 +36,8 @@ FRIEND LIST
 <td>Alexey</td>
 </tr>
 </table>
-GOOD SOUND XD <audio contorls></audio src="C:\Users\ilia2\Desktop\Новая папка\y2mate.mp3">
+my nickname for games:
+<h1> KORV1
 </body>
 </html>
 
