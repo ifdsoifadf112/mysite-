@@ -15,8 +15,8 @@ Why you do here? <input>
 
 
 
-<li><a href="https://www.youtube.com/channel/UCgCk9sE3th8MC_AXQaqLiUA> </li>
-<li>Channel ( youtube)<target="_blank"></li><a>
+<li><a href="https://www.youtube.com/channel/UCgCk9sE3th8MC_AXQaqLiUA> <a> </li>
+<li>Channel ( youtube)<target "_blank"></li><a>
 <hr>
 My favorite sports!!
 </hr>
