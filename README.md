@@ -12,11 +12,7 @@ Why you do here? <input>
 <em>Okay! Im understand you, thx for decide bro.</em>
 
 <hr>
-
-
-
-<li><a href="https://www.youtube.com/channel/UCgCk9sE3th8MC_AXQaqLiUA> <a> </li>
-<li> MY YOUTUBE CHANNEL ( youtube)<target "_blank"></li><a>
+gimme me money))
 <hr>
 My favorite sports!!
 </hr>
