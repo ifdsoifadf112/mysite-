@@ -12,7 +12,7 @@ Why you do here? <input>
 <em>Okay! Im understand you, thx for decide bro.</em>
 
 <hr>
-gimme me money))
+gimme money for me))
 <hr>
 My favorite sports!!
 </hr>
