@@ -39,5 +39,5 @@ FRIEND LIST
 
 </body>
 </html>
-<p>FAVORITE VIDEO))</p>
+
 <audio contorls></audio src="C:\Users\ilia2\Desktop\Новая папка\y2mate.mp3">
